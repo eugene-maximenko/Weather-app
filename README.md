@@ -4,7 +4,7 @@ It's a small application to geocode your location and get the forecast right in 
 
 I created it during Node.js course by [Andrew Mead](https://github.com/andrewjmead). 
 
-Here are some modules I used in my [Weather Website](https://github.com/eugene-maximenko/Weather-Website)
+Here you can find some modules I used in my [Weather Website](https://github.com/eugene-maximenko/Weather-Website)
 
 ## Getting Started
 
