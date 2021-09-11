@@ -8,4 +8,4 @@ Here you can find some modules I used in my [Weather Website](https://github.com
 
 ## Getting Started
 
-Download this repository on your machine, download all needed npm packages using `npm i` and hit `npm run dev`, so the project will run on your localhost. 
+Download this repository on your machine, download all needed npm packages using `npm i` and run the program with `node`.
